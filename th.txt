@@ -1,0 +1,18 @@
+object oriented pro , c++,java,python....
+procedure oriented programming.... c
+
+prorgramming language         Scripting language
+c,c++,java,python             javascript,php,perl,shell,awk,python
+
+static  typed language               dynamic typed language
+c,c++,java,python                     javascript,python
+
+cd change directory
+
+cd  basic
+
+python filename.py
+python basic1.py
+
+defination variable:
+variable are the  containers to store the data
