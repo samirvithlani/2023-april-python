@@ -1,0 +1,8 @@
+get user salary [monthly..]:
+eg 20000 * 12 = 240000
+
+1)if users's salary greater then 200000 then he/ she is eligible for 2 wheeler loan
+2)if users's salary greater then 500000 then he/ she is eligible for 4 wheeler loan
+3)if users's salary greater then 1000000 then he/ she is eligible for house loan
+4)if user's salary less then 200000 then he/ she is not eligible for any loan but 
+can apply for credit card and will get credit limit 50% of his/ her salary

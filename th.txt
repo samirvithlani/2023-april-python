@@ -16,3 +16,19 @@ python basic1.py
 
 defination variable:
 variable are the  containers to store the data
+
+operator:- operators are the symbols which are used to perform the operations on the data
+
+arithmetic operator:  +,-,*,/,%, // -> floor division,** -> exponentiation
+relation operator / conditional operator: <,>,<=,>=,==,!=
+logical operator:and or not
+biwise operator:
+assignment operator:=,+=,-=,*=,/=,%=,//=,**=
+
+membership operator: in,not in
+identity operator:is ,is not
+
+
+
+
+
