@@ -1,0 +1,10 @@
+entry control loop for and while
+exit control loop do while..
+
+for loop 
+
+    for(i=1;i<=10;i++){
+        
+    }
+
+while loop
