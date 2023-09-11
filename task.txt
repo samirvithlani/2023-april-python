@@ -6,3 +6,24 @@ eg 20000 * 12 = 240000
 3)if users's salary greater then 1000000 then he/ she is eligible for house loan
 4)if user's salary less then 200000 then he/ she is not eligible for any loan but 
 can apply for credit card and will get credit limit 50% of his/ her salary
+
+LCM
+HCF
+
+1
+2 3
+4 5 6
+7 8 9 10
+
+----------
+
+*****
+****
+***
+**
+*
+-----------
+  *
+ * *
+* * * 
+
