@@ -30,5 +30,4 @@ identity operator:is ,is not
 
 
 
-
-
+string.. --> char array...
