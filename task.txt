@@ -27,3 +27,13 @@ HCF
  * *
 * * * 
 
+
+count...
+get string from user...
+get char from user...
+
+"india is my country"
+"i"
+"m"
+
+repete count of i = 3
