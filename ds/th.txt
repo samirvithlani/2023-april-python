@@ -1,0 +1,18 @@
+list,
+tuple
+dictonary
+set
+
+array --> array is an group of elements of same data type, array size need to be fixed
+
+list :
+list is an group of elements of different data type, list size is not fixed
+2)list is mutable
+3)list is ordered [10,2,3,1,344,1] -->[10,2,/...]
+4)list allows duplicate values
+5)list allows hetrogenous data
+6)list stors data in index based
+
+list []
+
+for create blank list will have list = []
