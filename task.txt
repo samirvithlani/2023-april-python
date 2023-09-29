@@ -37,3 +37,24 @@ get char from user...
 "m"
 
 repete count of i = 3
+
+
+list
+
+1)find second largest number from list
+2)remove duplicate from list wo using [set] and any built in function
+
+
+[[12,22,33],[33,44],[5,6],[9,78]]
+12+22+33 = 67
+sum      =77
+sum =   90
+
+
+6) tuple is faster than list  ???? find it....
+
+1)application
+
+cricket application --->
+score....
+

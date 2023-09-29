@@ -16,3 +16,10 @@ list is an group of elements of different data type, list size is not fixed
 list []
 
 for create blank list will have list = []
+
+tuple: tuple is collection of elements of different data type, 
+1) tuple is immutable
+2) tuple is ordered
+3) tuple allows duplicate values
+4) tuple allows hetrogenous data
+5) tuple stores data in index based
