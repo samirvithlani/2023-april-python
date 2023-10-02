@@ -9,3 +9,7 @@ data = [("iphone 14",140000),("samsun s 23 ultra",120000),("ipad-mini",100000)]
 data.append(("laptop",20000))
 
 print(data)
+
+
+for i,j in data:
+    print(i," = ",j)

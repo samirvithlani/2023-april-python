@@ -23,3 +23,20 @@ tuple: tuple is collection of elements of different data type,
 3) tuple allows duplicate values
 4) tuple allows hetrogenous data
 5) tuple stores data in index based
+
+userName:"pass",
+userName:"pass",
+userName:"pass",
+userName:"pass",
+userName:"pass",
+userName:"pass",
+
+
+dictonary :
+dictonary is collection of elements of different data type,
+1) dictonary is mutable
+2) dictonary is unordered
+3) dictonary allows duplicate values but not duplicate keys
+4) dictonary allows hetrogenous data
+5) dictonary stores data in key value pair not in index...
+
