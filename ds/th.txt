@@ -40,3 +40,9 @@ dictonary is collection of elements of different data type,
 4) dictonary allows hetrogenous data
 5) dictonary stores data in key value pair not in index...
 
+
+set:
+set is collection of elements of different data type,
+set is mutable
+set does not allow duplicate values
+set is unordered
