@@ -1,0 +1,7 @@
+args kwargs
+
+10 employees   --> 10 files
+file --->
+
+raj -->"name":,salary ,attendance
+
