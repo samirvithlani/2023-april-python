@@ -5,3 +5,6 @@ file --->
 
 raj -->"name":,salary ,attendance
 
+lambda functions in python:
+annonymous functions:
+annonymous functions are functions without name

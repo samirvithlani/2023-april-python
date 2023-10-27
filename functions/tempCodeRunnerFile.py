@@ -1,3 +1,2 @@
-def inner():
-        print("Inner function")
-    
+def printA(a):
+#     print(a)
