@@ -8,3 +8,13 @@ raj -->"name":,salary ,attendance
 lambda functions in python:
 annonymous functions:
 annonymous functions are functions without name
+
+
+map
+filter
+reduce
+
+
+comprehensions:
+lambda functions:
+map,filter,reduce:
