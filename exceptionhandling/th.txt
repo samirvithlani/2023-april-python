@@ -1,0 +1,18 @@
+exception                                                                                   error...
+
+
+a = 10
+b = 0
+
+a / b
+
+
+"java"
+
+print(java[6])
+
+
+exception needs to handle...
+try except
+
+
