@@ -1,4 +1,3 @@
-
 try:
     no1 = int(input("enter no 1"))
     no2 = int(input("enter no 2"))
