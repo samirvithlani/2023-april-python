@@ -1,0 +1,28 @@
+methodology :
+
+oops : 
+
+
+encapsulation : class,object,constructor....
+inheritance   :  parent class's properties and methods are inherited to child class
+polymorphism  :  many forms of the function: overloading, overriding
+abstraction   :  abstract ....
+
+
+class : class is collection of  data members and member functions , blueprint of object, logical entity
+object : object is instance/ entity / identity  of class
+
+Class       OBJECT
+
+Vehicle     CAR...
+
+School       Students 
+
+
+class keyword 
+
+object ---> 
+
+
+
+
