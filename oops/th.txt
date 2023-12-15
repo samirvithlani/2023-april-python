@@ -23,6 +23,32 @@ class keyword
 
 object ---> 
 
+inheritance: 
+
+child class can use properties of parent class this process is called inheritance.....
+
+use:
+code reusability:
+type of inheritaccnce
+
+1) single inheritance   a --> b 
+2) multilevel inheritance  a --> b --> c
+3) multiple inheritance  a --> b , c / a,b --> c
+4) hierarchical inheritance  a --> b , a --> c
+
+                                        queen elezabeth
+
+                        prince charles           princess anne
+
+           prince william   prince harry     peter phillips   zara phillips
+
+    prince george  princess charlotte  prince louis  archie harrison                    
+
+
+
+5) hybrid inheritance  a --> b --> c , a --> d
+
+
 
 
 
