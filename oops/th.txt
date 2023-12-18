@@ -49,6 +49,27 @@ type of inheritaccnce
 5) hybrid inheritance  a --> b --> c , a --> d
 
 
+------------------------------------------------
+polymorphism : many forms of the function
+1)compile time polymorphism : 
+    function overloading
+
+function overloading : same function name with different parameters
+
+search(pname)
+search(pname,pprice)
+search(pname,pprice,pqty)
+search(pname,pprice,pqty,pdiscount)
+------------------------------------->>>>>>>> pop() -> last element
+                                              pop(1) -> 1st element
+
+                                              sort() -> ascending order
+                                              sort(reverse=True) -> descending order
+
+2)run time polymorphism : 
+    function overriding
+
+
 
 
 
