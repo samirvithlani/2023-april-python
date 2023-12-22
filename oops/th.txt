@@ -73,3 +73,12 @@ search(pname,pprice,pqty,pdiscount)
 
 variable ---> class  / class level variable / static variable
 
+
+staticMETHOD ---> class level method 
+1)we dont require object to call static method
+2)no need to pass self parameter [#error...]
+
+
+class methood ---> class level method
+1)we require object to call class method
+2)we need to pass self parameter
