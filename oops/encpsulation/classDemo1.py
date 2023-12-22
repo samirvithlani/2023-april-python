@@ -3,10 +3,10 @@
 
 class Demo:
     
-    #instance variable / class variable
+    #class variable
     #local variable
     
-    no = 100 #class variable/ instance variable
+    no = 100 #class variable/ 
     
     def getData(self): #self is reference variable which is pointing to current object
         no =150 #local variable

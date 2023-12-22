@@ -34,3 +34,8 @@ string.. --> char array...
 
 slicing is remaing with string....
 
+
+NOTE:
+1)static variable is class level variable which will define outside the method at class level
+2)instance variable is object level variable which will define inside the method using self
+
