@@ -69,3 +69,6 @@ user --> string... vovels count.. a e i o u upper case
 
 3) no of odd digit ---> number  121 --> 3 odd 24
 3.1) no ---> 3 digits count even --> 1 -> odd 12 even --> 1145 --> even --> even --> square odd cube..
+
+
+remove \n from realined readed data....

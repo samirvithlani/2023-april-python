@@ -1,0 +1,38 @@
+data persistancy:
+to achive data persistancy we need to use a database or files..
+to store data in form of files or database permanently.
+
+Major we have 3 operations to perform on data
+1) open file...
+2) write data into file / read data from file
+3) close file
+
+modes of opening file:
+r - read mode           [file should be exist]
+w - write mode        [file will be created if not exist and if exist it will be over written]
+a - append mode       [file will be created if not exist and if exist it will be appended]
+r+ - read and write mode [file should be exist]
+w+ - write and read mode  [file will be created if not exist and if exist it will be over written]
+a+ - append and read mode [file will be created if not exist and if exist it will be appended]
+x - exclusive mode   [file will be created if not exist and if exist it will throw error]
+
+
+path:
+1) absolute path  C:\Program Files\Java
+2) relative path  ./ curren directory
+                  ../ parent directory
+                  ../../ parent of parent directory
+                    ../../../ parent of parent of parent directory  
+
+
+
+read() it will read all data ---> [find by word or char or line]
+readLine() it will read line by line ---> [1]
+readLines() -> read all lines ---> [
+readLines return type is list
+
+
+TASk:
+
+read all data from file line by line using readLine function
+
