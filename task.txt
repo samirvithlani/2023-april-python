@@ -72,3 +72,61 @@ user --> string... vovels count.. a e i o u upper case
 
 
 remove \n from realined readed data....
+
+
+ticket booking app..
+1) movie booking app...
+
+1) 1 theater can have many movies
+1) 1 movie can have many tickets [100]
+2) 1 ticket can have 1 seat
+3) 1 seat can have 1 user
+
+1 user can book 1 ticket for 1 movie for 1 seat in 1 theater
+
+display movie list from file with show time
+you need to define no of seats for each movie [avaialble seats] = 100
+
+after booking ticket user should get ticket with ticket no and bookingId and all other detail
+
+create menu drive application
+
+1)book ticket
+2) download ticket [detail] by bookId
+3)payment 
+
+
+
+while True:
+    
+menu
+welcome to abc theater
+1)show movie list
+2)book ticket
+3)download ticket
+4)exiy
+
+
+def showMovieList():
+    read movie list from file
+    print movie list with show time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+

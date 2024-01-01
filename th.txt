@@ -39,3 +39,8 @@ NOTE:
 1)static variable is class level variable which will define outside the method at class level
 2)instance variable is object level variable which will define inside the method using self
 
+
+iterable objectss          subscriptable objects
+                            we can get specfic value
+                            list,tuple,string,dict,
+                                
